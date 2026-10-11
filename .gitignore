@@ -1,0 +1,13 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
